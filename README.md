@@ -3,6 +3,8 @@ Lay-Z-Spa integration and automation with Home Assistant
 
 You must register your Lay-Z-Spa with Bestway not Lay-Z-Spa app
 
+Automation has been achieved usign https://github.com/BrenTeck/Solax this reduces the running cost and can even prduce an income when usign Octopust Energy Agile https://share.octopus.energy/pear-kiwi-416. Get £50 for signing up with the link.
+
 References;
 https://github.com/B-Hartley/bruces_homeassistant_config
 https://github.com/B-Hartley/bruces_homeassistant_config/tree/098b67e9968b1887ebc684b6878affd71f95b2ba/packages/areas/garden/hottub-bestway
